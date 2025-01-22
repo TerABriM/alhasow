@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 76: expected statement.
+    scen krd with fade
+             ^
+
+File "game/script.rpy", line 105: expected statement.
+    scen prk with fade
+             ^
+
+Ren'Py Version: Ren'Py 8.3.1.24090601
+Fri Dec 20 13:40:23 2024
